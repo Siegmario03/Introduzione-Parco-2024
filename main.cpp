@@ -8,7 +8,7 @@
 int main() {
     int min_size = 16;
     int max_size = 4096;
-    int max_threads = 16;
+    int max_threads = 32;
 
     for (int threads = 1; threads <= max_threads; threads *= 2) {
         std::cout << std::endl;
