@@ -1,0 +1,70 @@
+    MATRIX SIZE	    SEQUENTIAL SYMETRIC CHECK	    IMPLICIT SYMMETRY CHECK	    EXPLICIT PARALLEL CHECK	    SEQUENTIAL TRANSPOSE	    IMPLICIT TRANSPOSE	    EXPLICIT TRANSPOSE
+        16	                    0	                          0	                          0	                          0	                       0	                     0
+        32	                    0	                          0	                          0	                          0	                       0	                     0
+        64	                    0	                          0	                          0	                          0	                       0	                     0
+        128	                    0	                          0	                          0	                          0  	                     0	                     0
+        256	                    0	                          0	                          0	                          0	                       0	                     0
+        512	                    0	                          0	                          1	                        0.072	                     1                     2.008
+        1024	                1.012	                        2	                        5.012	                      5.852	                   6.316	                 8.004
+        2048	                17.732	                    10.012	                     21	                        26.188	                 27.044	                   34
+        4096	                96.528	                    43.004	                    85.004	                   252.568	                 110.844	              137.788
+						
+						
+    MATRIX SIZE	    SEQUENTIAL SYMETRIC CHECK	    IMPLICIT SYMMETRY CHECK	    EXPLICIT PARALLEL CHECK	    SEQUENTIAL TRANSPOSE	    IMPLICIT TRANSPOSE	    EXPLICIT TRANSPOSE
+        16	                    0	                          0	                          0	                          0	                       0	                     0
+        32	                    0	                          0	                          0	                          0	                       0	                     0
+        64	                    0	                          0	                          0	                          0	                       0	                     0
+        128	                    0	                          0	                          0	                          0  	                     0	                     0
+        256	                    0	                          0	                          0	                          0	                       0	                     0
+        512	                    0	                          0	                          0	                        0.14	                     1	                     1
+        1024	                1.016	                        2	                        2.004	                      5.024	                   6.004                   4.004
+        2048	                15.82	                      10.004	                    10.024	                   26.432	                  27.06	                  17.072
+        4096	                95.1	                      43.004	                      42	                    252.632	                 110.988	                71.012
+						
+						
+    MATRIX SIZE	    SEQUENTIAL SYMETRIC CHECK	    IMPLICIT SYMMETRY CHECK	    EXPLICIT PARALLEL CHECK	    SEQUENTIAL TRANSPOSE	    IMPLICIT TRANSPOSE	    EXPLICIT TRANSPOSE
+        16	                    0	                          0	                          0	                          0	                       0	                     0
+        32	                    0	                          0	                          0	                          0	                       0	                     0
+        64	                    0	                          0	                          0	                          0	                       0	                     0
+        128	                    0	                          0	                          0	                          0  	                     0	                     0
+        256	                    0	                          0	                          0	                          0	                       0	                     0
+        512	                    0	                          0	                          0                        	0.012	                     1                       0
+        1024	                1.016	                        2	                          1	                        5.024	                     6	                     2
+        2048	               16.596	                      10.368	                      5	                       25.107	                   27.296	                   10
+        4096	               97.556	                      43.016	                    21.12	                    251.868	                  110.672	                 37.04
+						
+						
+    MATRIX SIZE	    SEQUENTIAL SYMETRIC CHECK	    IMPLICIT SYMMETRY CHECK	    EXPLICIT PARALLEL CHECK	    SEQUENTIAL TRANSPOSE	    IMPLICIT TRANSPOSE	    EXPLICIT TRANSPOSE
+        16	                    0	                          0	                          0	                          0	                       0	                     0
+        32	                    0	                          0	                          0	                          0	                       0	                     0
+        64	                    0	                          0	                          0	                          0	                       0	                     0
+        128	                    0	                          0	                          0	                          0  	                     0	                     0
+        256	                    0	                          0	                          0	                          0	                       0	                     0
+        512	                    0	                          0	                          0	                        0.008	                     1	                     0
+        1024	                1.012	                        2	                          0	                        5.016	                     7	                     1
+        2048	               15.772	                     10.868	                        2	                       25.188	                    28	                     5
+        4096	               97.364	                     43.308	                     10.368	                    251.188	                  110.612	                 20.124
+						
+						
+    MATRIX SIZE	    SEQUENTIAL SYMETRIC CHECK	    IMPLICIT SYMMETRY CHECK	    EXPLICIT PARALLEL CHECK	    SEQUENTIAL TRANSPOSE	    IMPLICIT TRANSPOSE	    EXPLICIT TRANSPOSE
+        16	                    0	                          0	                          0	                          0	                       0	                     0
+        32	                    0	                          0	                          0	                          0	                       0	                     0
+        64	                    0	                          0	                          0	                          0	                       0	                     0
+        128	                    0	                          0	                          0	                          0  	                     0	                     0
+        256	                    0	                          0	                          0	                          0	                       0	                     0
+        512	                    0	                          0	                          0  	                        1                        1	                     0
+        1024	                1.012	                      2.004	                        0	                        5.196	                     7	                     0
+        2048	                16.68	                       12	                         1.748	                   24.204	                   29.444	                 2.02
+        4096	                99.26	                      47.752	                     5.436	                  251.316	                  110.524	                10.788
+						
+						
+    MATRIX SIZE	    SEQUENTIAL SYMETRIC CHECK	    IMPLICIT SYMMETRY CHECK	    EXPLICIT PARALLEL CHECK	    SEQUENTIAL TRANSPOSE	    IMPLICIT TRANSPOSE	    EXPLICIT TRANSPOSE
+        16	                    0	                          0	                          0	                          0	                       0	                     0
+        32	                    0	                          0	                          0	                          0	                       0	                     0
+        64	                    0	                          0	                          0	                          0	                       0	                     0
+        128	                    0	                          0	                          0	                          0  	                     0	                     0
+        256	                    0	                          0	                          0	                          0	                       0	                     0
+        512	                    0	                          0	                          0	                        0.772	                     1	                   0.016
+        1024	                1.02	                        2	                        0.016	                      5.016	                     7	                   0.876
+        2048	               18.86	                     11.772	                      0.264	                     26.784	                    28	                   2.016
+        4096	               98.292	                      43.4	                      5.492	                    294.356	                  110.492	                  8.1
